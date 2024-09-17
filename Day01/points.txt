@@ -1,0 +1,221 @@
+Python
+------
+dot net, java, php, perl 
+
+python is a open source
+
+Desktop Application -  Python and TK (tkinter)
+
+Web Application	    - MVC, Rest API, Django, Flask
+
+Mobile		    - Kivy
+
+Testing 	    - pytest, unit test, robot framework
+
+automation	    - paramiko, 
+
+file handling	    - xml, json, excel, Database - MySQL, oracle, 			postgres, Sql server
+
+ML and AI	    - Tensorflow
+
+Data science	    -
+
+Data Analytics	    - Numpy, pandas
+
+
+
+Python
+
+Ruby (ROR)
+
+Scala (data engineering)
+
+Golang
+
+
+
+
+Python
+------
+2.x and 3.x
+
+print "hello world"
+
+print("hello world")
+
+latest version - 3.12.x - www.python.org
+
+Flavours of python
+------------------
+1. Cpython - currently using
+
+2. Jython - python code is converted to java
+
+3. Iron Python - Python to communicate with dotnet libraries
+
+IDE (Editor)
+------------
+1. PyCharm CE (open source)
+
+2. VS code CE
+
+3. Eclipse (patches)
+
+4. sublime text
+
+5. Jupyter Notebook
+
+6. Google colabs
+
+
+Install latest version of Python
+--------------------------------
+1. Python SDK
+
+2. Python Shell
+
+3. IDLE - Integrated Development Environment
+
+
+Two Operators that are overloaded
+---------------------------------
++ => addition and concatenation
+
+* => multiplication and to print a string n number of times
+
+
+Primitive Datatypes
+-------------------
+1. Number
+   a. integer	
+  xx. long (deprecated)
+   b. float
+   c. complex
+2. String
+3. Boolean
+
+
+Number long -> 23723749971209123901281456L
+
+
+importlib
+
+reload function
+
+from importlib import reload
+
+Virtual Environment (command prompt)
+-------------------
+1. create a virtual environment
+
+python -m venv virtualenv_name
+
+2. we need to activate the virtual environment
+
+   a. get into the virtual environment folder
+
+   b. now move to scripts folder
+
+   c. we can find a batch file - activate.bat
+
+4. you are inside the virtual environment and do what ever is        necessary
+
+5. To come out of the virtual environment execute the deactivate batch file in the scripts folder
+
+Coding Rules
+------------
+Comments
+--------
+# - is used to comment, its a single line comment (cntrl + /)
+
+strings
+-------
+strings are stored in " " or ' ' - single line string
+
+"we can't use single quotes in this case"
+
+'the quick brown fox jumps over the lazy dog'
+
+multiple line strings
+----------------------
+"""
+the quick brown fox jumps over the lazy dog. the quick brown fox jumps over the lazy dog. the quick brown fox jumps over the lazy dog. the quick brown fox jumps over the lazy dog.
+
+"""
+
+or 
+
+'''
+the quick brown fox jumps over the lazy dog. the quick brown fox jumps over the lazy dog. the quick brown fox jumps over the lazy dog. the quick brown fox jumps over the lazy dog.
+
+'''
+
+function fun():
+   """
+   doc string
+   function fun will display 'hello world'
+   """
+
+indentation
+-----------
+python does not use parenthesis { } in 
+
+1. if conditions
+2. for loops
+3. functions
+4. classes
+
+instead we use indentation
+
+Primitive data types
+---------------------
+1. Numbers
+   a. integers
+   b. float
+   c. complex
+
+print(f"a :{a}") - format string or f-string
+
+it is used for interpolation
+
+
+C or C++
+--------
+int i;
+
+string s;
+
+
+python
+------
+i = 10		# i is a integer
+
+
+i = "Hello"	# i is a string
+
+
+i = True	# i is Boolean
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
