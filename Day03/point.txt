@@ -1,0 +1,47 @@
+Python Data Structures
+----------------------
+1. Lists
+2. Dictionary
+3. Tuples
+4. Sets
+
+Lists
+-----
+lists are similar to arrays 
+
+what are arrays?
+1. collection of homogenous data
+2. memory allocation is contagious
+
+Lists
+-----
+1. collection of heterogenous data
+2. memory allocation is not contagious
+3. its an ordered collection
+4. its mutable
+5. lists are enclosed in [ ]
+
+Functions to manipulate lists
+-----------------------------
+'append', 'clear', 'copy', 'count', 'extend', 'index', 'insert', 'pop', 'remove', 'reverse', 'sort'
+
+add new elements to the list
+----------------------------
+append, extend, insert
+
+
+remove values from the list
+---------------------------
+pop, remove, clear
+
+
+index, count, copy, sort, reverse
+
+
+
+
+
+
+
+
+
