@@ -1,0 +1,86 @@
+Data Structures
+---------------
+1. Lists
+2. Dictionaries
+3. Tuples
+4. Sets
+
+
+Dictionary
+----------
+is also called as associative array
+
+  0    1    2    3    4
+['a', 'b', 'c', 'd', 'e']
+
+associative array
+-----------------
+{0: 'a', 1 :'b', 2 :'c', 3 :'d', 4 :'e'}
+
+0, 1, 2, 3, 4 => keys -> keys are user defined but it is unique
+
+'a', 'b', 'c', 'd', 'e' => values
+
+dictionary 
+
+marks = {'phy': 87, 'che': 96, 'bio': 99, 'maths': 98}
+
+emp = {'empid': 1003, 'empname': 'Jack', 'age': 32, 'Desig': 'TL'}
+
+Dictionary
+----------
+1. keys in a dictionary is unique
+2. unordered collection - 
+ {'phy': 87, 'che': 96, 'bio': 99} - {'bio': 99, 'phy': 87, 'che': 96}
+ (before python 3.7)
+
+3. It is mutable
+4. dictionaries are enclosed in { } 
+
+
+functions used to manipulate dictionaries
+-----------------------------------------
+'clear', 'copy', 'fromkeys', 'get', 'items', 'keys', 'pop', 'popitem', 'setdefault', 'update', 'values'
+
+
+Tuple
+-----
+its a immutable list
+tuples are enclosed in ()
+
+set
+---
+1. set is an unordered collection
+2. set are always unique
+3. set are mutable
+4. set cannot be subscripted - (cannot be indexed)
+5. set are enclosed in { } 
+
+Functions
+---------
+set of code that is repeated more than once
+
+def function_name():
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
