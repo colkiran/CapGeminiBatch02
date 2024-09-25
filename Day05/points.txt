@@ -1,0 +1,54 @@
+Functions
+---------
+1. lambdas
+
+2. scope of a variable
+
+
+Lambdas
+-------
+anonymous function with a single expression
+
+result of the expression = lambda(var1, var2, var3...: expression)
+
+l1 = [9, 7, 3, 5, 10, 8, 6]
+
+lambda x, y : x if x < y else y
+
+x = 10
+
+y = 7, 3, 5, 10, 8, 6
+
+
+Scope of a variable
+-------------------
+1. local
+2. global
+3. non local
+
+
+Comprehensions
+--------------
+iterating through a collection using lambda syntax
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
