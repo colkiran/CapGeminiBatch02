@@ -1,0 +1,125 @@
+Exceptions
+----------
+code -  depends on other 
+
+1. program  - REST API - product
+2. service
+3. database
+
+for data
+
+code 	<=     program
+
+code  <=> database 
+
+error prone
+
+try:
+    code
+
+except IOError as i:
+    print(i)
+
+
+different blocks
+----------------
+try block
+---------
+Error prone code
+
+except block
+------------
+specify the class with which we can handle the error
+eg - ZeroDivisonError, KeyError, ValueError.....
+
+else block
+----------
+code gets executed if there is no exceptions triggered
+
+finally block
+-------------
+code in the finally block will get executed at all scenarios
+
+Exception is the base class of all exception classes
+
+File Handling
+-------------
+1. Read
+2. write
+3. append
+
+
+Read mode
+---------
+1. read
+2. readline
+3. readlines
+
+Packages and Modules
+--------------------
+Modules
+-------
+modules are similar to libraries
+
+any python can be considered as a module
+
+Package
+-------
+folder or directory which has few modules (one or more)
+
+1. resolve the ambiguity of naming module
+
+vendor x - folder name x
+dbConnect module
+
+vendor y - folder name y
+dbConnect module
+
+x.dbConnect
+y.dbConnect
+
+Location where the modules should be stored
+-------------------------------------------
+path that is give sys.path (environment path)
+
+
+import mymodule 
+
+mymodule.py => mymodule.pyc -> will be stored in a folder __pycache__
+
+
+Create a file with an extension .pth in python native directory (directory where python.exe is present)
+
+
+import mymodule
+import mymodule as m
+from mymodule import class, function
+
+import mypackage.mymodule
+from mypackage import mymodule
+
+from mypackage import *
+
+
+Datetime Module
+---------------
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
